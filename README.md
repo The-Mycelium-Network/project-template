@@ -1,4 +1,4 @@
-# project-template
+# The Mycelium Network Project Template Repository
 
 A project template repository based on the [template repository](https://github.com/cncf/project-template) by the [Cloud Native Computing Foundation](https://github.com/cncf).
 
