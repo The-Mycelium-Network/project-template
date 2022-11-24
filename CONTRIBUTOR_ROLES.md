@@ -195,8 +195,8 @@ Inactivity is measured by:
 
 Consequences of being inactive include:
 
-- Involuntary removal or demotion
-- Being asked to move to Emeritus status
+- Involuntary removal or demotion.
+- Being asked to move to Emeritus status.
 
 ### Involuntary Removal or Demotion
 
