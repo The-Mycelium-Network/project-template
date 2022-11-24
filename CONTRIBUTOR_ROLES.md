@@ -48,7 +48,7 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 ### Contributor Responsibilities
 
-- Must follow the [Mycelium Network code of conduct](CODE_OF_CONDUCT.md)
+- Must follow the [Mycelium Network code of conduct](CODE_OF_CONDUCT.md).
 - Follow [contribution guidelines](CONTRIBUTING.md).
 
 ### Contributor duties (one or more of the below)
