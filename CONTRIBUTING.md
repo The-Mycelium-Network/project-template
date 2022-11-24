@@ -30,7 +30,7 @@ We welcome many different types of contributions including:
 - New features and content suggestions.
 - Identify and filing issues.
 - Providing feedback on existing issues.
-- [Engaging with the community](https://discord.gg/XzT3ww5tef) and asnwering questions.
+- [Engaging with the community](https://discord.gg/XzT3ww5tef) and answering questions.
 - Contributing documentation or code.
 - Design
 - Promoting the project in personal circles and social media.
