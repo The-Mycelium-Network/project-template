@@ -32,7 +32,7 @@ A Community Participant engages with the project and its community, contributing
 
 ### Responsibilities
 
-- Must follow the [Mycelium Network code of conduct](CODE_OF_CONDUCT.md)
+- Must follow the [Mycelium Network code of conduct](CODE_OF_CONDUCT.md).
 
 ### How community participants can get involved with the community
 
