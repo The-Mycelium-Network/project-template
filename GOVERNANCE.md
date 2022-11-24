@@ -5,7 +5,7 @@
   - [Maintainers](#maintainers)
   - [Becoming a Maintainer](#becoming-a-maintainer)
   - [Meetings](#meetings)
-  - [Mucelium Network Resources](#mucelium-network-resources)
+  - [Mycelium Network Resources](#mycelium-network-resources)
   - [Code of Conduct](#code-of-conduct)
   - [Voting](#voting)
 
