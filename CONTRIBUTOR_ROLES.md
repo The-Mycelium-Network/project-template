@@ -108,7 +108,7 @@ Invited experts have a track record of contributions, participation, and reviews
 ### Invited experts requirements
 
 - Experience as a Contributor for at least six months.
-- Must be an Orrganization member.
+- Must be an Organization member.
 - Has demonstrated an in-depth knowledge of the specific area.
 - Commits to being responsible for their assigned topic area.
 - Is supportive of new and occasional contributors and helps to get pull requests ready to merge.
