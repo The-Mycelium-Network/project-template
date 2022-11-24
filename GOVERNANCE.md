@@ -51,7 +51,7 @@ Time zones permitting, Maintainers are expected to participate in the public com
 
 Maintainers will also have closed meetings to discuss security reports or Code of Conduct violations. Any Maintainer can schedule such a meeting on receipt of a security issue or code of conduct report. All current Maintainers must be invited to such closed sessions, except for any Maintainer accused of a code of conduct violation.
 
-## Mucelium Network Resources
+## Mycelium Network Resources
 
 Any Maintainer may make a request for Mycelium Network resources during a meeting. A majority vote is needed to approve such a request. Maintainers should always consider the available budget and [current and future planned expenses](https://opencollective.com/the-mycelium-network#category-BUDGET).
 
