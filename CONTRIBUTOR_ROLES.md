@@ -53,14 +53,14 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 ### Contributor duties (one or more of the below)
 
-- File issues
-- Address issues through [pull requests](CONTRIBUTING.md#pull-request-lifecycle)
-- Contributing to documentation
-- Attend meetings
-- Support other community memebers and contributors
-- Provide feedback on pull requests
-- Help promote the project
-- Help with community events
+- File issues.
+- Address issues through [pull requests](CONTRIBUTING.md#pull-request-lifecycle).
+- Contributing to documentation.
+- Attend meetings.
+- Support other community members and contributors.
+- Provide feedback on pull requests.
+- Help promote the project.
+- Help with community events.
 
 ### Contributor privileges
 
