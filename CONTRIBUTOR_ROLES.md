@@ -97,7 +97,7 @@ An Organization Member must meet these requirements and has the responsibilities
 
 - May be assigned issues and reviews.
 - Will be added to the [review team](https://github.com/orgs/The-Mycelium-Network/teams/tmn-review-team).
-- Can recommend other contributors to become Orginization Members.
+- Can recommend other contributors to become Organization Members.
 
 ## Invited experts
 
