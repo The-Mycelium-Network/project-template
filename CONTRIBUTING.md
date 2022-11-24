@@ -58,7 +58,7 @@ Once you find an issue you’d like to work on, please post a comment saying you
 
 The best way to reach us with a question when contributing is to use the following channels in the following order of precedence:
 
-- [Start a discussion](https://github.com/orgs/The-Mycelium-Network/discussions)
+- [Start a discussion](https://github.com/orgs/The-Mycelium-Network/discussions).
 - Ask your question or highlight your discussion on [Discord](https://discord.gg/XzT3ww5tef).
 - File an issue and tag the core team using the `@The-Mycelium-Network/tmn-core` handle.
 
