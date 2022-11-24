@@ -102,8 +102,8 @@ The first step in setting up your development environment is to [fork the reposi
 
 #### Prerequisites
 
-- [NVM](https://github.com/nvm-sh/nvm) or [NVM for Windows](https://github.com/coreybutler/nvm-windows)
-- [Nodejs](https://nodejs.org/en/) (Latest stable release or up to two versions back)
+- [NVM](https://github.com/nvm-sh/nvm) or [NVM for Windows](https://github.com/coreybutler/nvm-windows).
+- [Nodejs](https://nodejs.org/en/) (Latest stable release or up to two versions back).
 
 Once you have the above installed and have the repository cloned, it is time to install the project dependencies.
 
