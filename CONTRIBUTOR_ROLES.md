@@ -36,11 +36,11 @@ A Community Participant engages with the project and its community, contributing
 
 ### How community participants can get involved with the community
 
-- Participating in community [discussions](https://github.com/orgs/The-Mycelium-Network/discussions)
-- Helping other users
-- Submitting bug reports
-- Commenting on issues
-- Attending [community events](https://www.meetup.com/the-mycelium-network-meetups/)
+- Participating in community [discussions](https://github.com/orgs/The-Mycelium-Network/discussions).
+- Helping other users.
+- Submitting bug reports.
+- Commenting on issues.
+- Attending [community events](https://www.meetup.com/the-mycelium-network-meetups/).
 
 ## Contributor
 
