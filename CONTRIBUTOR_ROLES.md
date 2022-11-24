@@ -10,10 +10,12 @@
     - [Contributor privileges](#contributor-privileges)
   - [Organization member](#organization-member)
     - [Requirements to become an organization member](#requirements-to-become-an-organization-member)
+      - [Process for nominating an Organization Member](#process-for-nominating-an-organization-member)
     - [Organization member responsibilities](#organization-member-responsibilities)
     - [Organization member privileges](#organization-member-privileges)
   - [Invited experts](#invited-experts)
     - [Invited experts requirements](#invited-experts-requirements)
+      - [Process for nominating an Invited Expert](#process-for-nominating-an-invited-expert)
     - [Invited experts responsibilities](#invited-experts-responsibilities)
     - [Invited experts privileges](#invited-experts-privileges)
   - [Maintainer](#maintainer)
@@ -85,19 +87,24 @@ Meet one or more of the following requirements on a monthly basis:
 - Have two factor authentication enabled for their GitHub account.
 - Have enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
-Organization members are nominated using the relevant [issue template](https://github.com/The-Mycelium-Network/community/issues/new/choose) on the Mycelium Network community repository.
+#### Process for nominating an Organization Member
+
+- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
+- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming an Organization Member.
+- To be accepted, the pull request needs three approvals. This can be any combination of Organization Members, Invited Experts, or Maintainers.
+- Once the pull request is approved, the new Organization Member is added to the [organizations-members team](https://github.com/orgs/mdn/teams/organizations-members).
 
 An Organization Member must meet these requirements and has the responsibilities of a Contributor, plus:
 
 ### Organization member responsibilities
 
-- Continues to contribute regularly, as demonstrated by having at least 24 contributions a year, as indicated by the [insights](https://github.com/orgs/The-Mycelium-Network/projects/5/insights) shown on the Mycelium Network project board.
+- Continues to contribute regularly, as demonstrated by having at least 24 contributions a year, as indicated by the [insights](https://github.com/orgs/mdn/projects/15/insights) shown on the MDN Motherboard project board.
 
 ### Organization member privileges
 
 - May be assigned issues and reviews.
-- Will be added to the [review team](https://github.com/orgs/The-Mycelium-Network/teams/tmn-review-team).
-- Can recommend other contributors to become Organization Members.
+- Will be added to the [organizations-members team](https://github.com/orgs/mdn/teams/organizations-members).
+- Can recommend other contributors to become Orginization Members.
 
 ## Invited experts
 
@@ -114,11 +121,12 @@ Invited experts have a track record of contributions, participation, and reviews
 - Is supportive of new and occasional contributors and helps to get pull requests ready to merge.
 - Attends the monthly [community meeting](https://www.meetup.com/the-mycelium-network-meetups/).
 
-Invited experts are nominated using the relevant [issue template](https://github.com/The-Mycelium-Network/community/issues/new/choose) on the Mycelium Network community repository. A nomination can be approved by any of the following:
+#### Process for nominating an Invited Expert
 
-- Two other topic experts.
-- A topic expert and maintainer.
-- Two maintainers.
+- The nominator will open a pull request using the appropriate [template](https://github.com/The-Mycelium-Network/community/roles/) against the [Mycelium Network community repository](https://github.com/The-Mycelium-Network/community/).
+- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming an Invited Expert.
+- To be accepted, the pull request needs three approvals. This can be any combination of Invited Experts, or Maintainers.
+- Once the pull request is approved, the new Invited Expert is added to the appropriate topic and [invited experts](https://github.com/orgs/The-Mycelium-Network/teams/tmn-invited-experts) team.
 
 ### Invited experts responsibilities
 
@@ -142,7 +150,7 @@ Maintainers are established contributors or project founders who are responsible
 
 - Experience as an invited expert for at least six months.
 - Demonstrates a broad knowledge of the project across multiple areas.
-- Is able to exercise judgment for the good of the project, independent of the influence of other members.
+- Is able to exercise judgment for the good of the project, independent of the influence of other members or partners.
 - A history of mentoring other contributors.
 - Can commit to spending at least 16 hours per month working on the project.
 
@@ -186,7 +194,7 @@ In addition to the responsibilities of a maintainer, the community manager has t
 
 ## Inactivity
 
-Contributors must be active to set an example and show commitment to the project. Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
+Participants must be active to set an example and show commitment to the project. Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
 
 Inactivity is measured by:
 
