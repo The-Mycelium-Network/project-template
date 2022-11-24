@@ -116,9 +116,9 @@ Invited experts have a track record of contributions, participation, and reviews
 
 Invited experts are nominated using the relevant [issue template](https://github.com/The-Mycelium-Network/community/issues/new/choose) on the Mycelium Network community repository. A nomination can be approved by any of the following:
 
-- Two other topic experts
-- A topic expert and maintainer
-- Two maintainers
+- Two other topic experts.
+- A topic expert and maintainer.
+- Two maintainers.
 
 ### Invited experts responsibilities
 
