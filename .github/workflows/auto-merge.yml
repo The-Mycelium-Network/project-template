@@ -8,3 +8,5 @@ jobs:
       target-repo: "TODO: add the name of the current (origin) repo"
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      
+# More info on https://github.com/project-calavera/calavera-reusable-actions/#auto-merge
