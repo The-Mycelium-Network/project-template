@@ -14,8 +14,14 @@ For the `auto-merge` workflow, you need to add a personal access token to the re
 
 ## License
 
-This project is licensed under [Apache license 2.0](LICENSE).
+This project is licensed under [multiple licenses](LICENSES.md).
 
 ## Conduct
 
 We follow the Mycelium Network [Code of Conduct](CODE_OF_CONDUCT.md).
+
+### Additonal information
+
+- [Learn more about our contributor roles](TODO: update link to point to the main mycelium network repo)
+- [Please take a moment to read our reviewers guide](TODO: update link to point to the main mycelium network repo)
+- [Our project governance model](TODO: update link to point to the main mycelium network repo)
